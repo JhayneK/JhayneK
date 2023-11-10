@@ -18,4 +18,4 @@ My social networks:
 
 
 
-![Snake animation](https://github.com/{{JhayneK}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/{{JhayneK}}/{{JhayneK}}/blob/output/github-contribution-grid-snake.svg)
