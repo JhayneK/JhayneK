@@ -13,7 +13,7 @@ I am a Software Engineering student, trained as a computer technician as well. I
 </p>
 
 My social networks:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jhaynehmartins?igshid=OGQ5ZDc2ODk2ZA==)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/studiogbytes?igshid=OGQ5ZDc2ODk2ZA==)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jkhenemam/)
 
 
